@@ -2,7 +2,7 @@
 Hi, this is my profile
 
 <h1 align="center">Hi 👋, I'm Nicholas Gador</h1>
-<h3 align="center">A passionate powerlifter and a aspiring web developer</h3>
+<h3 align="center">A passionate powerlifter and an aspiring web developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
